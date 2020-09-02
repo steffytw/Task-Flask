@@ -1,4 +1,8 @@
 # Task-Flask
+
+## flask_template
+A simple wrapper for getting started on flask applications
+
 ## Installation
 
 - Step 1 Download [Python](https://www.python.org/downloads/)
